@@ -1,0 +1,6 @@
+-sname hash_test
+
+-setcookie hash_test_cookie
+
++K true
++A30
